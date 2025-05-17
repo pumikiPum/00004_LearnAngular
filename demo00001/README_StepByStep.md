@@ -96,4 +96,4 @@ git commit -m "Add demo2 Angular 10.0.5 app"
 git push
 
 note: 
-to add comonnet          cd to the directory and run: ng add component <name>
+to generate comonnet          cd to the directory and run: ng generate component <name>
