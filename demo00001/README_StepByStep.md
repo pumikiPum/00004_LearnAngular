@@ -95,4 +95,5 @@ git add .
 git commit -m "Add demo2 Angular 10.0.5 app"
 git push
 
-![image](https://github.com/user-attachments/assets/bfc1dada-90d8-4d1c-a30f-a46e3ab89f3e)
+note: 
+to add comonnet          cd to the directory and run: ng add component <name>
