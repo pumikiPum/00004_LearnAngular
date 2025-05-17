@@ -95,5 +95,29 @@ git add .
 git commit -m "Add demo2 Angular 10.0.5 app"
 git push
 
-note: 
-to generate comonnet          cd to the directory and run: ng generate component <name>
+note: on main branch
+first created empty repo on git for angular
+then pulled the branch
+work locally
+to create project cd to the folder to contain the project
+ng new <demoXX} --directory={demoXX}
+to generate comonnet under y (usually under the coponent that contains it or shared)
+cd to y the directory and run: ng generate component <name>
+
+code: component, app 
+READMe
+
+test locally
+ng build
+ng serve
+
+make sure you have git ignore
+git branch
+git status
+git add .
+git status
+git commit -m "message"
+git push origin main
+git status
+git log --oneline
+see the commit in github
